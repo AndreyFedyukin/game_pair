@@ -1,6 +1,6 @@
 # game_pair
 
-<!-- ![Ссылка на изображение](https://andreyfedyukin.github.io/Course_project_Radio-W-Wave/img/logo.png) -->
+![Ссылка на изображение](https://github.com/AndreyFedyukin/Game_pair/blob/main/img/logo.jpg)
 
 # Игра "В пары" /Skillbox/
 
