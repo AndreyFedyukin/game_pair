@@ -6,7 +6,7 @@
 
 Цель игры - *найти одинаковые по номиналу карты.*
 
-Ссылка на сайт - <https://andreyfedyukin.github.io/Game_pair/>
+Ссылка на сайт - <https://andreyfedyukin.github.io/game_pair/>
 
 ---
 
